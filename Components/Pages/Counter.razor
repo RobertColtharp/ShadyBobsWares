@@ -1,19 +1,78 @@
 ﻿@page "/counter"
 @rendermode InteractiveServer
 
-<PageTitle>Counter</PageTitle>
+<PageTitle>Clickpocalypse</PageTitle>
 
-<h1>Counter</h1>
+<h1>Epic Clicker Game</h1>
 
-<p role="status">Current count: @currentCount</p>
+<p role="status">Current count: @gameObj.count</p>
 
-<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+<button class="btn btn-primary" @onclick=addToCounter>Click me to add!</button>
+
+<button class="btn btn-primary" @onclick=subFromCounter>Click me to subtract!</button>
+
+<button class="btn btn-primary" @onclick=clearCounter>Click me to for infinite fun!</button>
+
+
 
 @code {
-    private int currentCount = 0;
-
-    private void IncrementCount()
+    public Click gameObj;
+    protected override async Task OnInitializedAsync()
     {
-        currentCount++;
+        gameObj = new Click();
+    }
+
+    public void addToCounter()
+    {
+        gameObj.addCount(1);
+    }
+
+    public void subFromCounter()
+    {
+        gameObj.subCount(1);
+    }
+
+    public void clearCounter()
+    {
+        gameObj.clearCount();
+    }
+
+    public class Click
+    {
+        public int count;
+        public Click()
+        {
+
+        }
+
+        public void addCount(int amount)
+        {
+            this.count += amount;
+            if (this.count > 100)
+            {
+                this.count += amount*2;
+            }
+        }
+
+        public void subCount(int amount)
+        {
+            if (this.count > amount)
+            {
+                this.count -= amount;
+            }
+        }
+
+        public void multCount(float amount)
+        {
+        }
+
+        public void divCount(int amount)
+        {
+            this.count /= amount;
+        }
+
+        public void clearCount() => this.count = 0;
+
+        
     }
 }

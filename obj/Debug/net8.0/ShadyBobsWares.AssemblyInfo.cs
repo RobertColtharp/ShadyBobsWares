@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShadyBobsWares")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dbc2915071425a5381f2790d6e5c2583ddbfeee8")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShadyBobsWares")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShadyBobsWares")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

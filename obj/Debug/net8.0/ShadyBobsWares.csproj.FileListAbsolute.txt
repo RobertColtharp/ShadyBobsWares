@@ -27,3 +27,4 @@ C:\Users\mrted\Documents\GitHub\ShadyBobsWares\ShadyBobsWares\obj\Debug\net8.0\r
 C:\Users\mrted\Documents\GitHub\ShadyBobsWares\ShadyBobsWares\obj\Debug\net8.0\ShadyBobsWares.pdb
 C:\Users\mrted\Documents\GitHub\ShadyBobsWares\ShadyBobsWares\obj\Debug\net8.0\ShadyBobsWares.genruntimeconfig.cache
 C:\Users\mrted\Documents\GitHub\ShadyBobsWares\ShadyBobsWares\obj\Debug\net8.0\ref\ShadyBobsWares.dll
+C:\Users\mrted\Documents\GitHub\ShadyBobsWares\ShadyBobsWares\obj\Debug\net8.0\ShadyBobsWares.sourcelink.json

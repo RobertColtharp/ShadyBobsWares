@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\mrted\\Documents\\GitHub\\ShadyBobsWares\\ShadyBobsWares\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{91B732C1-F451-4C8B-899B-8480449096CD}|ShadyBobsWares.csproj|c:\\users\\mrted\\documents\\github\\shadybobswares\\shadybobswares\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{91B732C1-F451-4C8B-899B-8480449096CD}|ShadyBobsWares.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{91B732C1-F451-4C8B-899B-8480449096CD}|ShadyBobsWares.csproj|c:\\users\\mrted\\documents\\github\\shadybobswares\\shadybobswares\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91B732C1-F451-4C8B-899B-8480449096CD}|ShadyBobsWares.csproj|solutionrelative:components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{91B732C1-F451-4C8B-899B-8480449096CD}|ShadyBobsWares.csproj|c:\\users\\mrted\\documents\\github\\shadybobswares\\shadybobswares\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -31,14 +31,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\mrted\\Documents\\GitHub\\ShadyBobsWares\\ShadyBobsWares\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\mrted\\Documents\\GitHub\\ShadyBobsWares\\ShadyBobsWares\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-14T02:31:53.884Z",
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\mrted\\Documents\\GitHub\\ShadyBobsWares\\ShadyBobsWares\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\mrted\\Documents\\GitHub\\ShadyBobsWares\\ShadyBobsWares\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "Components\\Pages\\Counter.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T02:47:20.035Z",
               "EditorCaption": ""
             },
             {
@@ -64,8 +64,7 @@
               "RelativeToolTip": "wwwroot\\app.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-01-14T02:22:06.688Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T02:22:06.688Z"
             },
             {
               "$type": "Document",
@@ -77,8 +76,7 @@
               "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-14T02:17:48.02Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T02:17:48.02Z"
             }
           ]
         }
