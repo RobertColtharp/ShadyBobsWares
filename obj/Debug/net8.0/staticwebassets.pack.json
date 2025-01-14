@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\mrted\\Documents\\GitHub\\ShadyBobsWares\\ShadyBobsWares\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ShadyBobsWares.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ShadyBobsWares.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\mrted\\Documents\\GitHub\\ShadyBobsWares\\ShadyBobsWares\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\mrted\\Documents\\GitHub\\ShadyBobsWares\\ShadyBobsWares\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mrted\\Documents\\GitHub\\ShadyBobsWares\\ShadyBobsWares\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mrted\\Documents\\GitHub\\ShadyBobsWares\\ShadyBobsWares\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ShadyBobsWares.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ShadyBobsWares.props",
+      "PackagePath": "build\\ShadyBobsWares.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ShadyBobsWares.props",
+      "PackagePath": "buildMultiTargeting\\ShadyBobsWares.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ShadyBobsWares.props",
+      "PackagePath": "buildTransitive\\ShadyBobsWares.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
